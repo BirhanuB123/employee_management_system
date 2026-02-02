@@ -62,11 +62,3 @@ A full-stack Employee Management System built with the MERN stack (MongoDB, Expr
     ```
     Frontend runs on: [http://localhost:5173](http://localhost:5173)
 
-## Troubleshooting
-### MongoDB Connection Timeout
-If you encounter `Operation buffering timed out`, ensure your MongoDB service is running.
-- **Windows**: Check "Services" for MongoDB.
-- **Manual**: Run `mongod` in a separate terminal.
-
-### TailwindCSS / PostCSS Errors
-If you see PostCSS errors, ensure you have `@tailwindcss/postcss` installed and your `postcss.config.js` uses the new plugin name.
