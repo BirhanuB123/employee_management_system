@@ -23,7 +23,7 @@ A full-stack Employee Management System built with the MERN stack (MongoDB, Expr
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/BirhanuB123/employee_management_system.git
+    git clone https://github.com/BirhanuB123/Syntecxhub_employee_management.git
     cd employee_management_system
     ```
 
@@ -34,7 +34,7 @@ A full-stack Employee Management System built with the MERN stack (MongoDB, Expr
     ```
     Create a `.env` file in the `server` folder:
     ```
-    MONGO_URI=mongodb+srv://birhanu1b_db_user:ZjdeyZJ26D85NzHT@cluster0.rlxwgjj.mongodb.net/?appName=Cluster0
+    MONGO_URI=mongodb+srv://birhanu1b_db_user:**password**@cluster0.rlxwgjj.mongodb.net/?appName=Cluster0
     PORT=5000
     ```
 
